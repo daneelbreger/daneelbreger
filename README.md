@@ -5,9 +5,7 @@ I use Python, SQL, and VBA to automate workflows, analyse financial data, and bu
 
 ### 🔧 Technical Interests
 - Financial data analysis (fixed income, repos, sovereign debt)
-- Workflow automation (Python & VBA)
-- Market monitoring dashboards
-- Risk reporting tools
+- Workflow automation (Python & VBA & AI)
 
 ### 📂 Featured Projects
 - **Sovereign Bond Performance Tracker (Python)**  
