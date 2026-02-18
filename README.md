@@ -20,3 +20,7 @@ I use Python, SQL, and VBA to automate workflows, analyse financial data, and bu
 ### 📫 Contact
 - Email: daneelbreger@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/daneelbreger/
+
+**Sovereign Bond Performance Tracker (Python)**  
+  Simple script that visualizes sovereign yield trends using pandas and matplotlib.  
+  👉 https://github.com/daneelbreger/sovereign-bond-performance-tracker
