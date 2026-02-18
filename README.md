@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Daneel 
 
-<!--
-**daneelbreger/daneelbreger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young finance professional with experience in Rates & Financing Sales, Debt Capital Markets, and Market Risk.  
+I use Python, SQL, and VBA to automate workflows, analyse financial data, and build simple tools that make daily work more efficient.
 
-Here are some ideas to get you started:
+### 🔧 Technical Interests
+- Financial data analysis (fixed income, repos, sovereign debt)
+- Workflow automation (Python & VBA)
+- Market monitoring dashboards
+- Risk reporting tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- **Sovereign Bond Performance Tracker (Python)**  
+  A simple script that loads public sovereign yield data and visualizes performance trends.
+
+- **Repo Market Dashboard (Python)**  
+  A lightweight dashboard that plots repo rate movements from CSV inputs.
+
+- **CCP Exposure Monitoring Tool (VBA)**  
+  A simplified version of a monitoring tool I built during my Market Risk internship.
+
+### 📫 Contact
+- Email: daneelbreger@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/daneelbreger/
