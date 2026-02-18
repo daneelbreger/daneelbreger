@@ -23,4 +23,4 @@ I use Python, SQL, and VBA to automate workflows, analyse financial data, and bu
 
 **Sovereign Bond Performance Tracker (Python)**  
   Simple script that visualizes sovereign yield trends using pandas and matplotlib.  
-  👉 https://github.com/daneelbreger/sovereign-bond-performance-tracker
+  https://github.com/daneelbreger/sovereign-bond-performance-tracker
