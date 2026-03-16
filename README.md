@@ -14,8 +14,8 @@ I use Python, SQL, and VBA to automate workflows, analyse financial data, and bu
 - **Repo Market Dashboard (Python)**  
   A lightweight dashboard that plots repo rate movements from CSV inputs.
 
-- **CCP Exposure Monitoring Tool (VBA)**  
-  A simplified version of a monitoring tool I built during my Market Risk internship.
+- **Option Pricing Tool**  
+  A simplified version of an option pricing tool in Python.
 
 ### 📫 Contact
 - Email: daneelbreger@gmail.com  
