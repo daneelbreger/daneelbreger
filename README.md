@@ -11,9 +11,6 @@ I use Python, SQL, and VBA to automate workflows, analyse financial data, and bu
 - **Sovereign Bond Performance Tracker (Python)**  
   A simple script that loads public sovereign yield data and visualizes performance trends.
 
-- **Repo Market Dashboard (Python)**  
-  A lightweight dashboard that plots repo rate movements from CSV inputs.
-
 - **Option Pricing Tool**  
   A simplified version of an option pricing tool in Python.
 
