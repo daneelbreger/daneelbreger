@@ -14,6 +14,9 @@ I use Python, SQL, and VBA to automate workflows, analyse financial data, and bu
 - **Option Pricing Tool**  
   A simplified version of an option pricing tool in Python.
 
+  - **Market Scanning Tool**
+A Python-based command-line tool that scans several tickers for unusual activity and trade opportunities. It fetches historical and real-time price data for any list of stock tickers and automatically detects a wide range of technical signals.
+
 ### 📫 Contact
 - Email: daneelbreger@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/daneelbreger/
